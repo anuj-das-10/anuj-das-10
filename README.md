@@ -79,10 +79,7 @@
 
 ## <img src="https://img.icons8.com/color/48/000000/talk-male--v1.png"/> GET IN TOUCH WITH ME
 
-<br/>
-
 <p align="left">
 <a href ="https://www.facebook.com/lordanuj.10"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a><a href ="https://www.instagram.com/lord_anuj_10_/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a><a href ="https://twitter.com/CyBeRNaTiCS_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a><a href ="https://www.linkedin.com/in/anuj-das-10/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a><a href ="https://github.com/anuj-das-10"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 </p>
 
-##
