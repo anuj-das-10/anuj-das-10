@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="200vh" src="https://github.com/anuj-das-10/anuj-das-10/blob/main/Assets/20220511_1721221.gif"></a>
+<a href="#"><img width="100%" height="200vh" src="https://github.com/anuj-das-10/anuj-das-10/blob/main/Assets/MyBanner.gif"></a>
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi, I'm <a href ="https://anuj-das-10.github.io/">Anuj Das!</a>
 
