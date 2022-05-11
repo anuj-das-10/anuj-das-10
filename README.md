@@ -52,23 +52,23 @@
 
 <p align="left">
 
-- ### Programming Languages
+- #### Programming Languages
 
 <img src="https://img.icons8.com/color/48/000000/c-programming.png"/><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/color/48/000000/python.png"/>
 
 
 ##
 
-- ### Front-End Skills & Frameworks
+- #### Front-End Skills & Frameworks
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/material-ui.png"/>
 
 ##
-- ### Back-End Skills & Frameworks
+- #### Back-End Skills & Frameworks
 <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/><img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 
 
 ##
-- ### Tools that I use
+- #### Tools that I use
 <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/><img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/><img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png"/><img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/><img src="https://img.icons8.com/color/48/000000/pycharm.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/old-vmware-logo.png"/>
 
 <br/>
