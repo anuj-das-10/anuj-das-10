@@ -18,12 +18,11 @@
     </a>
 </p>
 
-##
 
 <br/>
 
-## <img src="https://img.icons8.com/color/48/000000/user-menu-male--v1.png"/> ABOUT ME 
-
+### <img src="https://img.icons8.com/color/48/000000/user-menu-male--v1.png"/> ABOUT ME 
+##
 
 - 🔭 I’m currently pursuing **B.Sc (Hons) - Computer Science**
 
@@ -39,8 +38,8 @@
 <br/>
 <br/>
 
-## <img src="https://img.icons8.com/color/48/000000/combo-chart--v1.png"/> MY GITHUB STATS
-
+### <img src="https://img.icons8.com/color/48/000000/combo-chart--v1.png"/> MY GITHUB STATS
+##
   <a href="https://github.com/anuj-das-10/github-readme-stats"><img alt="Anuj Das' Github Stats" src="https://github-readme-stats.vercel.app/api?username=anuj-das-10&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/anuj-das-10/github-readme-stats"><img alt="Anuj Das' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-das-10&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
@@ -49,7 +48,8 @@
 <br/>
 <br/>
 
-## <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-projects-home-based-business-flaticons-flat-flat-icons.png"/> PROJECTS
+### <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-projects-home-based-business-flaticons-flat-flat-icons.png"/> PROJECTS
+##
 
 [<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuj-das-10&repo=anuj-das-10.github.io&theme=react&bg_color=062C30&title_color=0AA1DD&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats" />](https://github.com/anuj-das-10/anuj-das-10.github.io/)
 [<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuj-das-10&repo=Flappy-Bird-AI&theme=react&bg_color=062C30&title_color=0AA1DD&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats" />](https://github.com/anuj-das-10/Flappy-Bird-AI/)
@@ -59,7 +59,9 @@
 <br/>
 <br/>
 
-## <img src="https://img.icons8.com/color/48/000000/administrative-tools.png"/>  LANGUAGES & TOOLS
+### <img src="https://img.icons8.com/color/48/000000/administrative-tools.png"/>  LANGUAGES & TOOLS
+
+##
 
 <p align="left">
 
@@ -82,14 +84,12 @@
 - #### Tools that I use !
 <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/><img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/><img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png"/><img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/><img src="https://img.icons8.com/color/48/000000/pycharm.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/old-vmware-logo.png"/>
 
+
+<br/>
+
+
+### <img src="https://img.icons8.com/color/48/000000/talk-male--v1.png"/> GET IN TOUCH!
 ##
-
-<br/>
-<br/>
-<br/>
-
-## <img src="https://img.icons8.com/color/48/000000/talk-male--v1.png"/> GET IN TOUCH!
-
 <p align="left">
 <a href ="https://www.facebook.com/lordanuj.10"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a><a href ="https://www.instagram.com/lord_anuj_10_/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a><a href ="https://twitter.com/CyBeRNaTiCS_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a><a href ="https://www.linkedin.com/in/anuj-das-10/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a><a href ="https://github.com/anuj-das-10"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 </p>
