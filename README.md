@@ -37,7 +37,7 @@
 <br/>
 <br/>
 
-## <img src="https://img.icons8.com/color/48/000000/combo-chart--v1.png"/> MY GITHUB STATISTICS
+## <img src="https://img.icons8.com/color/48/000000/combo-chart--v1.png"/> MY GITHUB STATS
 
   <a href="https://github.com/anuj-das-10/github-readme-stats"><img alt="Anuj Das' Github Stats" src="https://github-readme-stats.vercel.app/api?username=anuj-das-10&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/anuj-das-10/github-readme-stats"><img alt="Anuj Das' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-das-10&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -77,7 +77,7 @@
 <br/>
 <br/>
 
-## <img src="https://img.icons8.com/color/48/000000/talk-male--v1.png"/> GET IN TOUCH WITH ME
+## <img src="https://img.icons8.com/color/48/000000/talk-male--v1.png"/> GET IN TOUCH
 
 <p align="left">
 <a href ="https://www.facebook.com/lordanuj.10"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a><a href ="https://www.instagram.com/lord_anuj_10_/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a><a href ="https://twitter.com/CyBeRNaTiCS_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a><a href ="https://www.linkedin.com/in/anuj-das-10/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a><a href ="https://github.com/anuj-das-10"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
