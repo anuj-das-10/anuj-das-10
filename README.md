@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="40vh" src="https://github.com/anuj-das-10/anuj-das-10/blob/1f33eae1a2a4d2ef0080b118af4a9acb39b06db7/undraw_Pair_programming_re_or4x.png" height="175px"/></a>
+<a href="#"><img width="100%" height="150px" src="https://github.com/anuj-das-10/anuj-das-10/blob/1f33eae1a2a4d2ef0080b118af4a9acb39b06db7/undraw_Pair_programming_re_or4x.png" height="175px"/></a>
 
 <h1 align="center">Hi, I'm Anuj <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
