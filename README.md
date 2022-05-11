@@ -1,12 +1,14 @@
-<a href="#"><img width="100%" height="280vh" src="https://github.com/anuj-das-10/anuj-das-10/blob/main/Assets/MyBanner.gif"></a>
+<p align="center"><img width="100%" height="280vh" src="https://github.com/anuj-das-10/anuj-das-10/blob/main/Assets/MyBanner.gif"/></p>
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi, I'm <a href ="https://anuj-das-10.github.io/">Anuj Das!</a>
 
 <!-- ## ❤ Views and Followers -->
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-<img src="https://komarev.com/ghpvc/?username=anuj-das-10">
+<a href="https://github.com/anuj-das-10/">
+<img src="https://komarev.com/ghpvc/?username=anuj-das-10&label=Profile+Views+++&color=005555">
 </a>
-<a href="https://github.com/anuj-das-10?tab=followers"><img src="https://img.shields.io/github/followers/anuj-das-10?label=Followers&style=social" alt="GitHub Badge"></a></h1>
+<a href="https://github.com/anuj-das-10?tab=followers"><img src="https://img.shields.io/github/followers/anuj-das-10?label=Followers&style=social" alt="GitHub Badge"></a>
+</h1>
+
 
 <h3 align="center">A passionate Android Developer from India.</h3>
 
@@ -31,7 +33,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://anuj-das-10.github.io/)**
 
-- 📫 How to reach me **anujdas10.personal@outlook.com**
+- 📫 How to reach me **[anujdas10.personal@outlook.com](mailto:anujdas10.personal@outlook.com)**
 
 
 <br/>
@@ -47,8 +49,17 @@
 <br/>
 <br/>
 
+## <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-projects-home-based-business-flaticons-flat-flat-icons.png"/> PROJECTS
 
-## <img src="https://img.icons8.com/color/48/000000/administrative-tools.png"/> LANGUAGES & TOOLS
+[<img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuj-das-10&repo=anuj-das-10.github.io&theme=react&bg_color=062C30&title_color=0AA1DD&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats" />](https://github.com/anuj-das-10/anuj-das-10.github.io/)
+[<img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuj-das-10&repo=Flappy-Bird-AI&theme=react&bg_color=062C30&title_color=0AA1DD&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats" />](https://github.com/anuj-das-10/Flappy-Bird-AI/)
+[<img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuj-das-10&repo=C-Plus-Plus-Projects&theme=react&bg_color=062C30&title_color=0AA1DD&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats" />](https://github.com/anuj-das-10/C-Plus-Plus-Projects/)
+
+
+<br/>
+<br/>
+
+## <img src="https://img.icons8.com/color/48/000000/administrative-tools.png"/>  LANGUAGES & TOOLS
 
 <p align="left">
 
