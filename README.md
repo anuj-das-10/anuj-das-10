@@ -1,7 +1,7 @@
 <p align="center"><img width="100%" height="280vh" src="https://github.com/anuj-das-10/anuj-das-10/blob/main/Assets/MyBanner.gif"/></p>
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi, I'm <a href ="https://anuj-das-10.github.io/">Anuj Das!</a>
-
+<br/>
 <!-- ## ❤ Views and Followers -->
 <a href="https://github.com/anuj-das-10/">
 <img src="https://komarev.com/ghpvc/?username=anuj-das-10&label=Profile+Views+++&color=005555">
