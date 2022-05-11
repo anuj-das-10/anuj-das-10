@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anuj Das</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
 
+![Anuj](https://github-readme-stats.vercel.app/api?username=anuj-das-10&hide=contribs,prs)
+
 - 👨‍💻 All of my projects are available at [anuj-das-10.github.io](anuj-das-10.github.io)
 
 <h3 align="left">Connect with me:</h3>
