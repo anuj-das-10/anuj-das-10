@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="40vh" src="https://github.com/anuj-das-10/anuj-das-10/blob/1f33eae1a2a4d2ef0080b118af4a9acb39b06db7/undraw_Pair_programming_re_or4x.png" height="175px"/></a>
+<a href="#"><img width="100%" height="200vh" src="https://github.com/anuj-das-10/anuj-das-10/blob/1f33eae1a2a4d2ef0080b118af4a9acb39b06db7/undraw_Pair_programming_re_or4x.png" height="175px"/></a>
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi, I'm <a href ="https://anuj-das-10.github.io/">Anuj Das!</a>
 
@@ -37,7 +37,7 @@
 <br/>
 <br/>
 
-## <img src="https://img.icons8.com/color/48/000000/combo-chart--v1.png"/> MY GITHUB STATISTICS
+## <img src="https://img.icons8.com/color/48/000000/combo-chart--v1.png"/> MY GITHUB STATS
 
   <a href="https://github.com/anuj-das-10/github-readme-stats"><img alt="Anuj Das' Github Stats" src="https://github-readme-stats.vercel.app/api?username=anuj-das-10&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/anuj-das-10/github-readme-stats"><img alt="Anuj Das' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-das-10&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -52,23 +52,23 @@
 
 <p align="left">
 
-- #### Programming Languages
+- #### Programming Languages !
 
 <img src="https://img.icons8.com/color/48/000000/c-programming.png"/><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/color/48/000000/python.png"/>
 
 <br/>
 
-- #### Front-End Skills & Frameworks
+- #### Front-End Skills & Frameworks !
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/material-ui.png"/>
 
 <br/>
 
-- #### Back-End Skills & Frameworks
+- #### Back-End Skills & Frameworks !
 <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/><img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 
 <br/>
 
-- #### Tools that I use
+- #### Tools that I use !
 <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/><img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/><img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png"/><img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/><img src="https://img.icons8.com/color/48/000000/pycharm.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/old-vmware-logo.png"/>
 
 ##
@@ -77,7 +77,7 @@
 <br/>
 <br/>
 
-## <img src="https://img.icons8.com/color/48/000000/talk-male--v1.png"/> GET IN TOUCH WITH ME
+## <img src="https://img.icons8.com/color/48/000000/talk-male--v1.png"/> GET IN TOUCH!
 
 <p align="left">
 <a href ="https://www.facebook.com/lordanuj.10"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a><a href ="https://www.instagram.com/lord_anuj_10_/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a><a href ="https://twitter.com/CyBeRNaTiCS_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a><a href ="https://www.linkedin.com/in/anuj-das-10/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a><a href ="https://github.com/anuj-das-10"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
