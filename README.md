@@ -51,9 +51,9 @@
 
 ## <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-projects-home-based-business-flaticons-flat-flat-icons.png"/> PROJECTS
 
-[<img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuj-das-10&repo=anuj-das-10.github.io&theme=react&bg_color=062C30&title_color=0AA1DD&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats" />](https://github.com/anuj-das-10/anuj-das-10.github.io/)
-[<img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuj-das-10&repo=Flappy-Bird-AI&theme=react&bg_color=062C30&title_color=0AA1DD&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats" />](https://github.com/anuj-das-10/Flappy-Bird-AI/)
-[<img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuj-das-10&repo=C-Plus-Plus-Projects&theme=react&bg_color=062C30&title_color=0AA1DD&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats" />](https://github.com/anuj-das-10/C-Plus-Plus-Projects/)
+[<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuj-das-10&repo=anuj-das-10.github.io&theme=react&bg_color=062C30&title_color=0AA1DD&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats" />](https://github.com/anuj-das-10/anuj-das-10.github.io/)
+[<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuj-das-10&repo=Flappy-Bird-AI&theme=react&bg_color=062C30&title_color=0AA1DD&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats" />](https://github.com/anuj-das-10/Flappy-Bird-AI/)
+[<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuj-das-10&repo=C-Plus-Plus-Projects&theme=react&bg_color=062C30&title_color=0AA1DD&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats" />](https://github.com/anuj-das-10/C-Plus-Plus-Projects/)
 
 
 <br/>
