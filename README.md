@@ -14,7 +14,7 @@
 
 <p align="center">
     <a href="https://github.com/anuj-das-10/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anuj Das' streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anuj-das-10&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anuj Das' streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anuj-das-10&theme=black-ice&currStreakNum=00FFFF&fire=FFA500&sideLabels=00FFFF&sideNums=00FFFF&dates=74A662&ring=00FFFF&stroke=00FFFFA0CD0"/>
     </a>
 </p>
 
