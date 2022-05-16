@@ -1,4 +1,4 @@
-<p align="center"><img width="100%" height="280vh" src="https://github.com/anuj-das-10/anuj-das-10/blob/main/Assets/gitBanner.gif"/></p>
+<p align="center"><img width="100%" height="250vh" src="https://github.com/anuj-das-10/anuj-das-10/blob/main/Assets/ProfileBanner.gif"/></p>
 
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <a href ="https://anuj-das-10.github.io/">Anuj Das!</a>
 <br/>
@@ -7,10 +7,14 @@
 <img src="https://komarev.com/ghpvc/?username=anuj-das-10&label=Profile+Views+++&color=005555">
 </a>
 <a href="https://github.com/anuj-das-10?tab=followers"><img src="https://img.shields.io/github/followers/anuj-das-10?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<br/>
+
+<p align="center"><a href='https://ko-fi.com/anujdas10' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee!'/></a></p>
 </h1>
 
 
-<h3 align="center">A passionate Android Developer from India.</h3>
+<h3 align="center">A passionate Web Developer from India.</h3>
 
 <p align="center">
     <a href="https://github.com/anuj-das-10/github-readme-streak-stats">
