@@ -36,7 +36,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://anuj-das-10.github.io/)**
 
-- 📫 How to reach me **[anujdas10.personal@outlook.com](mailto:anujdas10.personal@outlook.com)**
+- 📫 Reach me at **[anujdas10.personal@outlook.com](mailto:anujdas10.personal@outlook.com)**
 
 
 <br/>
