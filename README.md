@@ -37,7 +37,7 @@
 
 <br/>
 
-<img alt="Anuj Das' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-das-10&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="60%" />
+<img alt="Anuj Das' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-das-10&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 
 
 
