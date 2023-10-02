@@ -1,22 +1,47 @@
-
 <h1 align="center">Hi, I'm <a href ="https://anuj-das-10.github.io/">Anuj Das!</a>
 <br/>
 
-
-<!-- ## ❤ Views and Followers -->
+<!-- ## ❤ Views and Followers Count badge-->
 <a href="https://github.com/anuj-das-10/">
 <img src="https://komarev.com/ghpvc/?username=anuj-das-10&label=Profile+Views+++&color=005555">
 </a>
-<a href="https://github.com/anuj-das-10?tab=followers"><img src="https://img.shields.io/github/followers/anuj-das-10?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/anuj-das-10?tab=followers"><img src="https://img.shields.io/github/followers/anuj-das-10?label=Followers&style=social" alt="GitHub Badge">
+</a>
+<br/>
 
-<h5 align="center">Greetings from the dynamic world of web development! 
+<!-- <p align="center"><a href='https://ko-fi.com/K3K7CQCWI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee!' /></a></p> -->
+</h1>
 
-I'm a passionate full-stack web developer and mentor from the vibrant land of India. Let's embark on an exciting coding journey together, crafting digital wonders and inspiring the next generation. 🌐🚀👨🏻‍💻</h5>
+<!-- About me  -->
+<p align="center">Greetings from the dynamic world of web development! I'm a passionate full-stack web developer and mentor from the vibrant land of India. Let's embark on an exciting coding journey together, crafting digital wonders and inspiring the next generation. 🌐🚀👨🏻‍💻</p>
+
+<br >
+
+##  MORE ABOUT ME 
+- 🔭 I’m currently pursuing **M.Sc in Advanced Computer Science**
+
+- 👯 I’m looking to collaborate on **web based projects**
+
+- 🌱 I’m currently learning **machine learning & data science**
+
+
+- ⚡ Fun fact **I am a foodie and love to watch anime.**
+
+- 👨‍💻 All of my projects are available at my **[Website](https://anuj-das-10.github.io/)**
+
+- 👨‍💻 I write technical blogs on **[Hashnode](https://anuj-das-10.hashnode.dev/)** and non-technical blogs on **[Medium](https://anuj-das-10.medium.com/)**
+
+- 📫 Reach me at **[anujdas.business@gmail.com](mailto:anujdas.business@gmail.com)**
+
+
 <br/>
 
 
-<p align="center"><a href='https://ko-fi.com/K3K7CQCWI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee!' /></a></p>
-</h1>
+
+
+
+
+
 
 
 <p align="center">
@@ -32,20 +57,7 @@ I'm a passionate full-stack web developer and mentor from the vibrant land of In
 
 <br/>
 
-##  MORE ABOUT ME 
 
-- 🔭 I’m currently pursuing **M.Sc in Advanced Computer Science**
-
-- 👯 I’m looking to collaborate on **Web Based Projects**
-
-- ⚡ Fun fact **I am a foodie and love to play video games.**
-
-- 👨‍💻 All of my projects are available at my **[website](https://anuj-das-10.github.io/)**
-
-- 📫 Reach me at **[anujdas.business@gmail.com](mailto:anujdas.business@gmail.com)**
-
-
-<br/>
 <br/>
 
 ## MY GITHUB STATS
