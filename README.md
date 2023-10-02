@@ -39,7 +39,7 @@
 <!-- Streak Count and Stats  -->
 <p align="center">
     <a href="https://github.com/anuj-das-10/github-readme-streak-stats">
-        <img alt="Anuj Das' streak" 
+        <img alt="Anuj Das' streak" width="100%"
         src="https://streak-stats.demolab.com?user=anuj-das-10&theme=blue-green&hide_border=true"/>
     </a>
 </p>
