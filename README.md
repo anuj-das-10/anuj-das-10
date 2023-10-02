@@ -9,6 +9,9 @@
 </a>
 <br/>
 
+![Anuj github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anuj-das-10&bg_color=0D1117&color=44fd85&line=0fb924&point=3cfff5&area=true&hide_border=true)
+
+
 <!-- <p align="center"><a href='https://ko-fi.com/K3K7CQCWI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee!' /></a></p> -->
 </h1>
 
@@ -44,7 +47,6 @@
     </a>
 </p>
 
-![Anuj github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anuj-das-10&bg_color=0D1117&color=44fd85&line=0fb924&point=3cfff5&area=true&hide_border=true)
 
 
 <br/>
