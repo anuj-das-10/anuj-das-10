@@ -24,7 +24,6 @@
 
 - 🌱 I’m currently learning **machine learning & data science**
 
-
 - ⚡ Fun fact **I am a foodie and love to watch anime.**
 
 - 👨‍💻 All of my projects are available at my **[Website](https://anuj-das-10.github.io/)**
@@ -33,17 +32,11 @@
 
 - 📫 Reach me at **[anujdas.business@gmail.com](mailto:anujdas.business@gmail.com)**
 
-
 <br/>
 
 
 
-
-
-
-
-
-
+<!-- Streak Count and Stats  -->
 <p align="center">
     <a href="https://github.com/anuj-das-10/github-readme-streak-stats">
         <img alt="Anuj Das' streak" 
@@ -62,7 +55,7 @@
 
 ## MY GITHUB STATS
 
-<img alt="Anuj Das' Github Stats" src="https://github-readme-stats.vercel.app/api?username=anuj-das-10&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+<img alt="Anuj Das' Github Stats" src="https://github-readme-stats.vercel.app/api?username=anuj-das-10&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="100%" />
 <img alt="Anuj Das' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-das-10&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 
 
