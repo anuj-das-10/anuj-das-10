@@ -47,16 +47,11 @@
 ![Anuj github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anuj-das-10&bg_color=0D1117&color=44fd85&line=0fb924&point=3cfff5&area=true&hide_border=true)
 
 
-
 <br/>
-
-
-<br/>
-
-## MY GITHUB STATS
 
 <img alt="Anuj Das' Github Stats" src="https://github-readme-stats.vercel.app/api?username=anuj-das-10&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="100%" />
-<img alt="Anuj Das' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-das-10&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+
+<img alt="Anuj Das' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-das-10&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="100%" />
 
 
 <br/>
