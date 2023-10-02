@@ -37,33 +37,34 @@
 
 <br/>
 
-<img alt="Anuj Das' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-das-10&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-
+<!-- Most Used Language -->
+<img alt="Anuj Das' Top Languages" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-das-10&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" 
+/>
 
 
 <!-- Streak Count and Stats  -->
 <p align="center">
-    <a href="https://github.com/anuj-das-10/github-readme-streak-stats">
-        <img alt="Anuj Das' streak" width="100%"
-        src="https://streak-stats.demolab.com?user=anuj-das-10&theme=blue-green&hide_border=true"/>
+    <a href="https://github.com/anuj-das-10/">
+        <img alt="Anuj Das' streak" 
+        width="100%"
+        src="https://streak-stats.demolab.com?user=anuj-das-10&theme=blue-green&hide_border=true" />
     </a>
 </p>
 
-
-
 <br/>
 
-<img alt="Anuj Das' Github Stats" src="https://github-readme-stats.vercel.app/api?username=anuj-das-10&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="100%" />
+<!-- Github Stats -->
+<img alt="Anuj Das' Github Stats" 
+width="100%"
+src="https://github-readme-stats.vercel.app/api?username=anuj-das-10&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"
+/>
 
-
-
-
-<br/>
 <br/>
 
 ## PROJECTS
 
-<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuj-das-10&repo=anuj-das-10.github.io&theme=react&bg_color=062C30&title_color=0AA1DD&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats" />
+<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuj-das-10&repo=gcc-x-csd-final&theme=react&bg_color=062C30&title_color=0AA1DD&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats" />
 
 [<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuj-das-10&repo=Flappy-Bird-AI&theme=react&bg_color=062C30&title_color=0AA1DD&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats" />](https://github.com/anuj-das-10/Flappy-Bird-AI/)
 [<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuj-das-10&repo=C-Plus-Plus-Projects&theme=react&bg_color=062C30&title_color=0AA1DD&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats" />](https://github.com/anuj-das-10/C-Plus-Plus-Projects/)
