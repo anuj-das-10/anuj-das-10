@@ -9,13 +9,15 @@
 </a>
 <a href="https://github.com/anuj-das-10?tab=followers"><img src="https://img.shields.io/github/followers/anuj-das-10?label=Followers&style=social" alt="GitHub Badge"></a>
 
+<h5 align="center">Greetings from the dynamic world of web development! 
+
+I'm a passionate full-stack web developer and mentor from the vibrant land of India. Let's embark on an exciting coding journey together, crafting digital wonders and inspiring the next generation. 🌐🚀👨🏻‍💻</h5>
 <br/>
+
 
 <p align="center"><a href='https://ko-fi.com/K3K7CQCWI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee!' /></a></p>
 </h1>
 
-
-<h3 align="center">A passionate Web Developer from India.</h3>
 
 <p align="center">
     <a href="https://github.com/anuj-das-10/github-readme-streak-stats">
@@ -24,19 +26,21 @@
     </a>
 </p>
 
+![Anuj github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anuj-das-10&bg_color=0D1117&color=44fd85&line=0fb924&point=3cfff5&area=true&hide_border=true)
+
 
 
 <br/>
 
-##  ABOUT ME 
+##  MORE ABOUT ME 
 
-- 🔭 I’m currently pursuing **B.Sc (Hons) - Computer Science**
+- 🔭 I’m currently pursuing **M.Sc in Advanced Computer Science**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **Web Based Projects**
 
 - ⚡ Fun fact **I am a foodie and love to play video games.**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://anuj-das-10.github.io/)**
+- 👨‍💻 All of my projects are available at my **[website](https://anuj-das-10.github.io/)**
 
 - 📫 Reach me at **[anujdas.business@gmail.com](mailto:anujdas.business@gmail.com)**
 
@@ -49,7 +53,7 @@
 <img alt="Anuj Das' Github Stats" src="https://github-readme-stats.vercel.app/api?username=anuj-das-10&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 <img alt="Anuj Das' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-das-10&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 
-![Anuj github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anuj-das-10&bg_color=0D1117&color=44fd85&line=0fb924&point=3cfff5&area=true&hide_border=true)
+
 <br/>
 <br/>
 
