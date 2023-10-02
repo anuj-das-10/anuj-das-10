@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi, I'm <a href ="https://anuj-das-10.github.io/">Anuj Das!</a>
 <br/>
+
+
 <!-- ## ❤ Views and Followers -->
 <a href="https://github.com/anuj-das-10/">
 <img src="https://komarev.com/ghpvc/?username=anuj-das-10&label=Profile+Views+++&color=005555">
@@ -17,15 +19,16 @@
 
 <p align="center">
     <a href="https://github.com/anuj-das-10/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anuj Das' streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anuj-das-10&theme=black-ice&currStreakNum=00FFFF&fire=FFA500&sideLabels=00FFFF&sideNums=00FFFF&dates=74A662&ring=00FFFF&stroke=00FFFF&hide_border=true"/>
+        <img alt="Anuj Das' streak" 
+        src="https://streak-stats.demolab.com?user=anuj-das-10&theme=blue-green&hide_border=true"/>
     </a>
 </p>
 
 
+
 <br/>
 
-### <img src="https://img.icons8.com/color/48/000000/user-menu-male--v1.png"/> ABOUT ME 
-##
+##  ABOUT ME 
 
 - 🔭 I’m currently pursuing **B.Sc (Hons) - Computer Science**
 
@@ -41,20 +44,19 @@
 <br/>
 <br/>
 
-### <img src="https://img.icons8.com/color/48/000000/combo-chart--v1.png"/> MY GITHUB STATS
-##
-  <a href="https://github.com/anuj-das-10/github-readme-stats"><img alt="Anuj Das' Github Stats" src="https://github-readme-stats.vercel.app/api?username=anuj-das-10&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/anuj-das-10/github-readme-stats"><img alt="Anuj Das' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-das-10&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+## MY GITHUB STATS
 
-[![Anuj's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=anuj-das-10&theme=react-dark)](https://github.com/anuj-das-10/github-readme-activity-graph)
+ <img alt="Anuj Das' Github Stats" src="https://github-readme-stats.vercel.app/api?username=anuj-das-10&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img alt="Anuj Das' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-das-10&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 
+![Anuj github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anuj-das-10&bg_color=0D1117&color=44fd85&line=0fb924&point=3cfff5&area=true&hide_border=true)
 <br/>
 <br/>
 
-### <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-projects-home-based-business-flaticons-flat-flat-icons.png"/> PROJECTS
-##
+## PROJECTS
 
-[<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuj-das-10&repo=anuj-das-10.github.io&theme=react&bg_color=062C30&title_color=0AA1DD&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats" />](https://github.com/anuj-das-10/anuj-das-10.github.io/)
+<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuj-das-10&repo=anuj-das-10.github.io&theme=react&bg_color=062C30&title_color=0AA1DD&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats" />
+
 [<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuj-das-10&repo=Flappy-Bird-AI&theme=react&bg_color=062C30&title_color=0AA1DD&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats" />](https://github.com/anuj-das-10/Flappy-Bird-AI/)
 [<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuj-das-10&repo=C-Plus-Plus-Projects&theme=react&bg_color=062C30&title_color=0AA1DD&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats" />](https://github.com/anuj-das-10/C-Plus-Plus-Projects/)
 
