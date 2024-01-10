@@ -21,7 +21,7 @@
 <br >
 
 ##  MORE ABOUT ME 
-- 🔭 I’m currently pursuing **M.Sc in Advanced Computer Science**
+- 🔭 I’m currently pursuing **M.Sc in Computer Science**
 
 - 👯 I’m looking to collaborate on **web based projects**
 
